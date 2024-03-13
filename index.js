@@ -1,4 +1,4 @@
-// index.js
+// index.js - DIMITRI
 // where your node app starts
 
 // init project
